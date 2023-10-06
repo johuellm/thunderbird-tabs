@@ -1,0 +1,31 @@
+ /* Style buttons */
+button {
+  cursor: pointer;
+  border: 1px solid #d5d7dd;
+  border-color: #eb2eac;
+  border-radius: .25em;
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  padding: 0.5em 1em;
+  background: #fff;
+  font-weight: 400;
+}
+
+/* Darker background on mouse-over */
+button:hover {
+  background: #eb2eac;
+  color: #fff;
+}
+
+div {
+  margin-bottom: 5px;
+}
+
+img {
+  vertical-align: middle;
+}
+
+input {
+  width: 438px;
+}
+
