@@ -9,3 +9,11 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement
 
 General information about Thunderbird supernova (115.*+)
 https://developer.thunderbird.net/add-ons/updating/tb115
+
+
+## Screenshot
+
+Screenshot of the menu.
+
+![Screenshot of the menu.](screenshot.png)
+
