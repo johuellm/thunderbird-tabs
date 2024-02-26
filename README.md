@@ -1,15 +1,12 @@
 
 # Thunderbird Tabs
 
-Very basic web tabs for Google applications using only Thunderbird 68 and higher APIs and no legacy stuff.
+Very basic tabs addon for opening Google, Outlook, or other web applications in Thunderbird Tabs. It works with Thunderbird Supernova (115.*+) and uses only Thunderbird 68 and higher APIs--no legacy stuff.
 
-Maybe add configuration window, see:
-https://thunderbird-webextensions.readthedocs.io/en/68/index.html
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page
+Download here: https://addons.thunderbird.net/de/thunderbird/addon/open-google-tabs/
 
-General information about Thunderbird supernova (115.*+)
+General information about Thunderbird supernova (115.*+):
 https://developer.thunderbird.net/add-ons/updating/tb115
-
 
 ## Screenshot
 
